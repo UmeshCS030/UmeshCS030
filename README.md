@@ -10,11 +10,11 @@ I enjoy turning complex problems into clear, actionable insights while continuou
 
 ### 👩‍💻 About Me
 
-- 🎓 Undergraduate in **B.Sc. (Hons) Computer Science (Data Science)** at University of Kelaniya
-- 🔭 Currently focused on **Data Science, Machine Learning, and Data Analytics**
-- 🛠 Building projects that solve real-world problems
-- 📚 Continuously learning and improving through hands-on development
-- 📫 Reach me at: **umesh.dev2k24@gmail.com**
+- Undergraduate in **B.Sc. (Hons) Computer Science (Data Science)** at University of Kelaniya
+- Currently focused on **Data Science, Machine Learning, and Data Analytics**
+- Building projects that solve real-world problems
+- Continuously learning and improving through hands-on development
+- Reach me at: **umesh.dev2k24@gmail.com**
 
 ---
 
