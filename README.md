@@ -21,7 +21,7 @@ I enjoy turning complex problems into clear, actionable insights while continuou
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:umesh.dev2k24@gmail.com" target="_blank" rel="noreferrer">
+<a href="mailto:umeshmanujaya7@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/umesh-manujaya-71449032a/" target="_blank" rel="noreferrer">
